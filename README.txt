@@ -1,5 +1,4 @@
-//COEN 233 Computer Networks
-//Meghana Shivaprasad-W1650458
+
 1. Open the terminal on linux
 2. Execute the following commands, we are compiling the client.c and server.c
 	
